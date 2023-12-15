@@ -1,0 +1,6 @@
+
+x	java:S116"WRename this field "pedido_valor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âã”Óûÿÿÿÿ8±»™ìÅ1
+E
+java:S1172")Remove this unused method parameter "id".(ü„ÂZ8ÆîÆ•Æ1
+G	java:S106"+Replace this use of System.out by a logger.(›”î8ÇîÆ•Æ1
+X	java:S125"<This block of commented-out lines of code should be removed.(÷÷½ò8Ñ·Æ•Æ1
